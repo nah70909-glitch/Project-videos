@@ -7,10 +7,10 @@ This repository contains the **video submissions for my project presentation**.
 ## 📁 Videos
 
 ### ▶️ Video 1
-[Click here to view or download Video 1](./VID-20250925-WA001.mp4)
+[Click here to view or download Video 1](./VID-20250925-WA0012.mp4)
 
 ### ▶️ Video 2
-[Click here to view or download Video 2](./VID-20250925-WA002.mp4)
+[Click here to view or download Video 2](./VID-20250925-WA0013.mp4)
 
 ---
 
@@ -22,4 +22,3 @@ This repository contains the **video submissions for my project presentation**.
 ---
 
 **Thank you for viewing my project submission!**
-ch
